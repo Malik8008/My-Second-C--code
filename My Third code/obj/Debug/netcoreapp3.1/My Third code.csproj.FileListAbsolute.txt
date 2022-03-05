@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\My Third code\My Third code\bin\Debug\netcoreapp3.1\My Third code.exe
+C:\Users\Admin\source\repos\My Third code\My Third code\bin\Debug\netcoreapp3.1\My Third code.deps.json
+C:\Users\Admin\source\repos\My Third code\My Third code\bin\Debug\netcoreapp3.1\My Third code.runtimeconfig.json
+C:\Users\Admin\source\repos\My Third code\My Third code\bin\Debug\netcoreapp3.1\My Third code.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\My Third code\My Third code\bin\Debug\netcoreapp3.1\My Third code.dll
+C:\Users\Admin\source\repos\My Third code\My Third code\bin\Debug\netcoreapp3.1\My Third code.pdb
+C:\Users\Admin\source\repos\My Third code\My Third code\obj\Debug\netcoreapp3.1\My Third code.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\My Third code\My Third code\obj\Debug\netcoreapp3.1\My Third code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\My Third code\My Third code\obj\Debug\netcoreapp3.1\My Third code.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\My Third code\My Third code\obj\Debug\netcoreapp3.1\My Third code.AssemblyInfo.cs
+C:\Users\Admin\source\repos\My Third code\My Third code\obj\Debug\netcoreapp3.1\My Third code.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\My Third code\My Third code\obj\Debug\netcoreapp3.1\My Third code.dll
+C:\Users\Admin\source\repos\My Third code\My Third code\obj\Debug\netcoreapp3.1\My Third code.pdb
+C:\Users\Admin\source\repos\My Third code\My Third code\obj\Debug\netcoreapp3.1\My Third code.genruntimeconfig.cache
